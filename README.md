@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abbielatonio
 - 👀 I’m interested in digital marketing, design and web development
-- 🌱 I’m currently learning Express, React and Node
+- 🌱 I’m currently learning Express, React and Node JS
 
 <!---
 abbielatonio/abbielatonio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
