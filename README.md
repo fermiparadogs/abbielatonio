@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @abbielatonio
-- 👀 I’m interested in digital marketing, design and web development
 - 🌱 I’m currently learning Express, React and Node JS
 
 <!---
