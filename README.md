@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @abbielatonio
-- 🌱 I’m currently learning Express, React and Node JS
+- 👋 Hi, I’m Abbie
+- 🌱 I’m currently learning MongoDB, Express, React and Node JS
 
 <!---
 abbielatonio/abbielatonio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
