@@ -1,6 +1,6 @@
 <meta name="google-site-verification" content="Wz2e-TggXjfXmpI0yenCAqdnb66GDYIxXLPpKg9ZYS0" />
 
-- 👋 Hi, I’m Abbie
+- 👋 Hi, I’m Abbie Latonio
 - 🌱 I’m currently learning MongoDB, Express, React and Node JS
 
 <!---
